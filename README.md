@@ -2,6 +2,8 @@
 
 > Today I Learned
 
+Write Ups about the small things that I learn day to day in different languages.
+
 ## About
 
 I shamelessly stole this idea from
