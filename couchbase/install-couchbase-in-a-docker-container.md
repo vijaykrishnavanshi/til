@@ -6,8 +6,9 @@ Docker is a freely available application that lets you install a fully-configure
 Step 1: Use Docker to Install Couchbase Server
 
 Open a console window on your computer and enter the following command:
-
-> docker run -d --name db -p 127.0.0.1:8091-8096:8091-8096 -p 127.0.0.1:11210-11211:11210-11211 couchbase
+```clojure
+docker run -d --name db -p 127.0.0.1:8091-8096:8091-8096 -p 127.0.0.1:11210-11211:11210-11211 couchbase
+```
 
 When you run the command, Docker downloads, installs, and configures Couchbase Server. This command binds 127.0.0.1:8091-8096 port to 8091-8096 port of the docker container so that we can access them as needed.
 
