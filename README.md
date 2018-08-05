@@ -23,3 +23,10 @@ I shamelessly stole this idea from
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
+
+## Note
+
+Let me know in issues if any of the instruction doesn't work for you in the issues. I will try to update it accordingly.
+
+Also PR are welcome if the change is for a newer version. 
+
