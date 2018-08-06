@@ -1,6 +1,6 @@
 # Install Neo4j in Ubuntu 
 
-Step 0: To install Neo4j on Debian you need to make sure that you have Java 8 Runtime is installed.
+Step 0: To install Neo4j on Ubuntu you need to make sure that you have Java 8 Runtime is installed.
 
 These commands should do the trick.
 
