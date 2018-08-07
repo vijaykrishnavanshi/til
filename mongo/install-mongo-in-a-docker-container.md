@@ -2,7 +2,7 @@
 
 Step 0: Download and Install Docker
 
-Docker is a freely available application that lets you install a fully-configured instance of Couchbase Server with a single command. To set up Docker on your computer, go to the Docker [installation page](https://www.docker.com/get-docker) and follow the instructions.
+Docker is a freely available application that lets you install a fully-configured instance of MongoDB with a single command. To set up Docker on your computer, go to the Docker [installation page](https://www.docker.com/get-docker) and follow the instructions.
 
 Step 1: Use Docker to Install Mongo 3.4
 
