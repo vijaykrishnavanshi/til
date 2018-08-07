@@ -19,6 +19,7 @@ Write Ups about the small things that I learn day to day in different languages.
 ### Neo4j
 - [Install Neo4j in Ubuntu](neo4j/install-neo4j-in-ubuntu.md)
 - [Install Neo4j in Docker Container](neo4j/install-neo4j-in-docker-container.md)
+- [Why use Neo4j?](neo4j/why-use-neo4j.md)
 
 ## About
 
