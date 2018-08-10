@@ -24,7 +24,20 @@ Admin panel is available on http://localhost:8080/
 Step 3: Running it as a service.
 
 ```closure
-docker run -d --publish=8080:8080 --publish=50000:50000 --name jenkins-container jenkins/jenkins:lts
+docker run -d --publish=8080:8080 --publish=50000:50000 --name <container-name> jenkins/jenkins:lts
 ```
 
-jenkins-container is the name of the container. Host's 8080 & 50000 are mapped with the 8080 & 50000 ports of the docker container. You can change it as needed.
+Host's 8080 & 50000 are mapped with the 8080 & 50000 ports of the docker container. You can change it as needed.
+
+To get the initial admin password of jenkins from the running docker container - 
+
+```closure
+docker exec -i -t <container-name> /bin/bash
+```
+
+After this you should be inside the docker bash shell. See the contents of the file /var/jenkins_home/secrets/initialAdminPassword
+
+```closure
+cat /var/jenkins_home/secrets/initialAdminPassword
+```
+
