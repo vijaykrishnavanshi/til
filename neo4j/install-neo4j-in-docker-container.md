@@ -1,4 +1,4 @@
-# Install Neo4j in Docker Container 
+# Install Neo4j in Docker Container
 
 Step 0: To install Neo4j on a docker container you need to make sure you have docker installed.
 
@@ -25,9 +25,10 @@ $HOME/neo4j/data is the directory where neo4j container persists its data. Delet
 
 Step 3: Running it as a service.
 
-```closure 
+```closure
 docker run -d --publish=7474:7474 --publish=7687:7687 --volume=$HOME/neo4j/data:/data --name neo4j-container neo4j
 ```
+
 neo4j-container is the name of the container. Host's 7474 & 7687 are mapped with the 7474 & 7687 ports of the docker container.
 
 Pass --env=NEO4J_AUTH=none flag to disable authentication. 

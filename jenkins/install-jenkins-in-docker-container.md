@@ -11,6 +11,7 @@ This commands pulls the latest jenkins configured docker image to your local.
 ```closure
 docker pull jenkins/jenkins:lts
 ```
+
 This pulls the latest lts image of jenkins from the dockerhub.
 
 Step 2: Run Neo4j Instance on default ports.
