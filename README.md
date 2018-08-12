@@ -11,6 +11,7 @@ Write Ups about the small things that I learn day to day in different languages.
 * [Neo4j](#Neo4j)
 * [Docker](#Docker)
 * [Jenkins](#Jenkins)
+* [Server](#Server)
 
 ### Couchbase
 
@@ -34,6 +35,10 @@ Write Ups about the small things that I learn day to day in different languages.
 ### Jenkins
 
 * [Install Jenkins in Docker Container](jenkins/install-jenkins-in-docker-container.md)
+
+### Server
+
+* [Setup Mongo Backup Strategy on Linux Server](server/setup-mongo-backup-strategy-on-linux-server.md)
 
 ## About
 
