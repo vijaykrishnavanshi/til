@@ -20,6 +20,7 @@ Write Ups about the small things that I learn day to day in different languages.
 ### Mongo
 
 * [Install Mongo in Docker Container](mongo/install-mongo-in-a-docker-container.md)
+* [Secure Mongo using Authentication Strategy](mongo/secure-mongo-using-authentication-strategy.md)
 
 ### Neo4j
 
