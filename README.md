@@ -4,7 +4,7 @@
 
 Write Ups about the small things that I learn day to day in different languages.
 
-### Categories
+## Categories
 
 * [Couchbase](#Couchbase)
 * [Mongo](#Mongo)
@@ -62,5 +62,4 @@ details.
 
 Let me know if any of the instruction doesn't work for you in the issues, I will try to update it accordingly.
 
-Also PR are welcome if the change is for a newer version. 
-
+Also PR are welcome if the change is for a newer version.
