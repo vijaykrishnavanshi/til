@@ -48,7 +48,7 @@ Write Ups about the small things that I learn day to day in different languages.
 
 ## About
 
-I shamelessly stole this idea from
+I got this idea from
 [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ## License
