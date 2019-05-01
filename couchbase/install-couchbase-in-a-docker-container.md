@@ -1,6 +1,7 @@
 # Install [Couchbase](https://www.couchbase.com/) in Docker Container
 
 Step 0: Download and Install Docker
+
 [Docker](https://www.docker.com) is a freely available application that lets you install a fully-configured instance of [Couchbase  Server](https://www.couchbase.com/) with a single command. To set up Docker on your computer, go to the Docker [installation page](https://www.docker.com/get-docker) and follow the instructions.
 
 Step 1: Use Docker to Install Couchbase Server
