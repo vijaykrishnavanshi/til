@@ -16,6 +16,6 @@ When you run the command, Docker downloads, installs, and configures Couchbase S
 
 Now Admin panel of the couchbase server is available on 127.0.0.1:8091/
 
-Step 2: Visit the admin panel at http://127.0.0.1:8091/
+Step 2: Visit the admin panel at <http://127.0.0.1:8091/>
 
 Note: You can make the couchbase available on you ip address as well just change the binding from 127.0.0.1:* to 0.0.0.0:* Then you can access your admin panel on your ip:8091.
