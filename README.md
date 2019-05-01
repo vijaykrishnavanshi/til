@@ -28,6 +28,7 @@ Write Ups about the small things that I learn day to day in different languages.
 * [Install Neo4j in Ubuntu](neo4j/install-neo4j-in-ubuntu.md)
 * [Install Neo4j in Docker Container](neo4j/install-neo4j-in-docker-container.md)
 * [Why use Neo4j?](neo4j/why-use-neo4j.md)
+* [Take and restore dump of Neo4j Database in Docker Container](neo4j/take-and-restore-dump-in-neo4j-docker-container.md)
 
 ### Docker
 
