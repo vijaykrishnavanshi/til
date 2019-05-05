@@ -1,4 +1,4 @@
-# Execute command in a running Docker Container
+# Execute command in a running [Docker](https://www.docker.com/) Container
 
 Step 0: List all the docker containers that are currently running on your machine using the following command.
 
@@ -12,11 +12,10 @@ Step 1: Execute the command.
 
 ```closure
 docker exec -it <container-id/container-name> <command>
-``` 
+```
 
 Best way to explore the file system inside docker is to connect a shell.
 
 ```closure
 sudo docker exec -ti <container-id/container-name> /bin/bash
 ```
-

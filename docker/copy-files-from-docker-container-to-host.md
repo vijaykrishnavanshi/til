@@ -1,4 +1,4 @@
-# Copy Files from Docker Container to Host 
+# Copy Files from [Docker](https://www.docker.com/) Container to Host
 
 The docker cp command can be used to copy files. One specific file can be copied like:
 
@@ -13,4 +13,3 @@ Multiple files contained by the folder src can be copied into the target folder 
 docker cp <source-directory-on-host> <container-name>:<target-directory-on-container>
 docker cp <container-name>:<source-directory-on-container> <target-directory-on-host>
 ```
-
