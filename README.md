@@ -54,7 +54,7 @@ Write Ups about the small things that I learn day to day in different languages.
 ## About
 
 I got this idea from
-[jbranchaud/til](https://github.com/jbranchaud/til). I have enhanced the idea by including the good resources also for techs that I know. In the order of how I found them useful.
+[jbranchaud/til](https://github.com/jbranchaud/til). I have enhanced the idea by including the good resources also for techs that I know, in the order of how I found them useful.
 
 ## License
 
