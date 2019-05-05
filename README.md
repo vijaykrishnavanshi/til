@@ -27,7 +27,7 @@ Write Ups about the small things that I learn day to day in different languages.
 
 ### Elasticsearch
 
-* [Good Resources] (elasticsearch/good-resources.md)
+* [Good Resources](elasticsearch/good-resources.md)
 
 ### Jenkins
 
