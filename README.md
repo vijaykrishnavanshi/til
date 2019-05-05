@@ -53,7 +53,7 @@ I got this idea from
 
 ## License
 
-&copy; 2018 Vijay Krishnavanshi
+&copy; 2019 Vijay Krishnavanshi
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
