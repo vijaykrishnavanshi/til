@@ -7,15 +7,25 @@ Write Ups about the small things that I learn day to day in different languages.
 ## Categories
 
 * [Couchbase](#Couchbase)
-* [Mongo](#Mongo)
-* [Neo4j](#Neo4j)
 * [Docker](#Docker)
 * [Jenkins](#Jenkins)
+* [Mongo](#Mongo)
+* [Neo4j](#Neo4j)
 * [Server](#Server)
 
 ### Couchbase
 
 * [Install Couchbase in Docker Container](couchbase/install-couchbase-in-a-docker-container.md)
+
+### Docker
+
+* [Add Volume to a running Docker Container](docker/addadd-volume-to-running-docker-container.md)
+* [Copy Files from Docker Container to Host](docker/copy-files-from-docker-container-to-host.md )
+* [Execute command in a running Docker Container](docker/execute-command-inside-docker-container.md)
+
+### Jenkins
+
+* [Install Jenkins in Docker Container](jenkins/install-jenkins-in-docker-container.md)
 
 ### Mongo
 
@@ -29,16 +39,6 @@ Write Ups about the small things that I learn day to day in different languages.
 * [Install Neo4j in Docker Container](neo4j/install-neo4j-in-docker-container.md)
 * [Why use Neo4j?](neo4j/why-use-neo4j.md)
 * [Take and restore dump of Neo4j Database in Docker Container](neo4j/take-and-restore-dump-in-neo4j-docker-container.md)
-
-### Docker
-
-* [Add Volume to a running Docker Container](docker/addadd-volume-to-running-docker-container.md)
-* [Copy Files from Docker Container to Host](docker/copy-files-from-docker-container-to-host.md )
-* [Execute command in a running Docker Container](docker/execute-command-inside-docker-container.md)
-
-### Jenkins
-
-* [Install Jenkins in Docker Container](jenkins/install-jenkins-in-docker-container.md)
 
 ### Server
 
