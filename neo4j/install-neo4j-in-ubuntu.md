@@ -1,6 +1,6 @@
-# Install Neo4j in Ubuntu 
+# Install [Neo4j](https://neo4j.com/) in [Ubuntu](https://www.ubuntu.com/)
 
-Step 0: To install Neo4j on Ubuntu you need to make sure that you have Java 8 Runtime is installed.
+Step 0: To install Neo4j on Ubuntu you need to make sure that you have [Java](https://www.java.com/) 8 Runtime is installed.
 
 These commands should do the trick.
 
@@ -25,7 +25,6 @@ sudo apt-get update
 
 Step 3: Installing
 
-```closure 
+```closure
 sudo apt-get install neo4j=1:3.4.1
 ```
-
