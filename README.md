@@ -12,6 +12,7 @@ Write Ups about the small things that I learn day to day in different languages.
 * [Elasticsearch](#Elasticsearch)
 * [Jenkins](#Jenkins)
 * [Kubernetes](#Kubernetes)
+* [Git](#Git)
 * [Mongo](#Mongo)
 * [Neo4j](#Neo4j)
 * [Server](#Server)
@@ -43,6 +44,10 @@ Write Ups about the small things that I learn day to day in different languages.
 ### Kubernetes
 
 * [Good Resources](kubernetes/good-resources.md)
+
+### Git
+
+* [Add Submodules in GitHub Repo](git/add-submodules-in-github-repo.md)
 
 ### Mongo
 
