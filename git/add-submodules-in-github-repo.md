@@ -13,3 +13,7 @@ Step 3: Add the remote-repo as submodule using the command:
 ```closure
 git submodule add <remote-repo-url> <path-name>
 ```
+
+### Reading Reference
+
+* <https://gist.github.com/gitaarik/8735255>
