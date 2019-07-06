@@ -8,7 +8,7 @@ Write Ups about the small things that I learn day to day in different languages.
 
 * [Couchbase](#Couchbase)
 * [Docker](#Docker)
-* [Docker Compose](#Docker Compose)
+* [Docker Compose](#Docker\ Compose)
 * [Elasticsearch](#Elasticsearch)
 * [Jenkins](#Jenkins)
 * [Kubernetes](#Kubernetes)
