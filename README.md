@@ -13,6 +13,7 @@ Write Ups about the small things that I learn day to day in different languages.
 * [Jenkins](#Jenkins)
 * [Kubernetes](#Kubernetes)
 * [Git](#Git)
+* [MacOS](#MacOS)
 * [Mongo](#Mongo)
 * [Neo4j](#Neo4j)
 * [Server](#Server)
@@ -48,6 +49,10 @@ Write Ups about the small things that I learn day to day in different languages.
 ### Git
 
 * [Add Submodules in GitHub Repo](git/add-submodules-in-github-repo.md)
+
+### MacOS
+
+* [Enable Autocomplete in MacOS](macos/enable-autocomplete-in-macos.md)
 
 ### Mongo
 
