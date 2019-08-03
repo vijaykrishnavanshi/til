@@ -53,6 +53,7 @@ Write Ups about the small things that I learn day to day in different languages.
 ### MacOS
 
 * [Enable Autocomplete in MacOS](macos/enable-autocomplete-in-macos.md)
+* [Add Autocomplete for git in MacOS](macos/add-autocompletion-for-git-in-macos.md)
 
 ### Mongo
 
