@@ -10,9 +10,9 @@ Write Ups about the small things that I learn day to day in different languages.
 * [Docker](#Docker)
 * [Docker Compose](#Docker-Compose)
 * [Elasticsearch](#Elasticsearch)
+* [Git](#Git)
 * [Jenkins](#Jenkins)
 * [Kubernetes](#Kubernetes)
-* [Git](#Git)
 * [MacOS](#MacOS)
 * [Mongo](#Mongo)
 * [Neo4j](#Neo4j)
@@ -38,6 +38,11 @@ Write Ups about the small things that I learn day to day in different languages.
 
 * [Good Resources](elasticsearch/good-resources.md)
 
+### Git
+
+* [Add Submodules in GitHub Repo](git/add-submodules-in-github-repo.md)
+* [Cherry Pick commits on other branch](git/cherry-pick-commits-on-other-branch.md)
+
 ### Jenkins
 
 * [Install Jenkins in Docker Container](jenkins/install-jenkins-in-docker-container.md)
@@ -45,11 +50,6 @@ Write Ups about the small things that I learn day to day in different languages.
 ### Kubernetes
 
 * [Good Resources](kubernetes/good-resources.md)
-
-### Git
-
-* [Add Submodules in GitHub Repo](git/add-submodules-in-github-repo.md)
-* [Cherry Pick commits on other branch](git/cherry-pick-commits-on-other-branch.md)
 
 ### MacOS
 
