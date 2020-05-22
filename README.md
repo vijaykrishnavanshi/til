@@ -20,6 +20,7 @@ Write Ups about the small things that I learn day to day in different languages.
 * [Mongo](#Mongo)
 * [Neo4j](#Neo4j)
 * [Server](#Server)
+* [Video](#Video)
 * [WebRTC](#WebRTC)
 
 ### API
@@ -90,6 +91,10 @@ Write Ups about the small things that I learn day to day in different languages.
 * [Setup Mongo Backup Strategy on Linux Server](server/setup-mongo-backup-strategy-on-linux-server.md)
 * [Setup Couchbase Backup Strategy on Linux Server](server/setup-couchbase-backup-strategy-on-linux-server.md)
 * [Tools for benchmarking APIs Performance](server/tools-to-benchmark-apis-performance.md)
+
+### Video
+
+* [Good Resources](video/good-resources.md)
 
 ### WebRTC
 
